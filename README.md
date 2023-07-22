@@ -6,6 +6,9 @@ The DatSet Contained a CSV File with Important Columns Such as Order Date, Shipp
 
 So Using this Columns I have prepared a Power BI Dashboard to gain some Insights and trends from the Datset
 
+![image](https://github.com/Ujjwalrai7/SuperStore_Sales_Data_PowerBI_Dashboard/assets/125723652/9bca705e-1d0a-4fd4-be7a-dcd67655f713)
+
+
 Some of the Insights That can be gained from the Dashboard is that
 * COD is the most preferable Mode of payment.
 * Office Suppliments and Technology Related products are Top Selling Category of Products.
